@@ -1,0 +1,4 @@
+*.csv
+*.ini
+ledger_env/
+__pycache__/
